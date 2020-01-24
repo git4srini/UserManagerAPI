@@ -3,3 +3,14 @@
 ################################################################################
 
 /UserManager.API/bin/Debug/netcoreapp3.1/runtimes
+/UserManager.API/bin/Debug/netcoreapp3.1
+/UserManager.API/obj
+/UserManager.Application/bin/Debug/netstandard2.0
+/UserManager.Application/obj
+/UserManager.Domain/bin/Debug/netstandard2.0
+/UserManager.Domain/obj
+/UserManager.Repository/bin/Debug/netstandard2.0
+/UserManager.Repository/obj
+/UserManager.Test/bin/Debug/netcoreapp3.1
+/UserManager.Test/obj
+/UserManagerAPI/.vs/UserManagerAPI
