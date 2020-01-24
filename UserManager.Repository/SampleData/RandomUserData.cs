@@ -12,7 +12,6 @@ namespace UserManager.Repository.SampleData
                 {
                 new Domain.Entities.User()
                 {
-                    //ID = 1,
                     Title = "Ms",
                     FirstName = "Margaux",
                     LastName = "Renard",
@@ -24,7 +23,6 @@ namespace UserManager.Repository.SampleData
                 },
                 new Domain.Entities.User()
                 {
-                    //ID = 2,
                     Title = "Mr",
                     FirstName = "Silas",
                     LastName = "Jensen",
@@ -36,7 +34,6 @@ namespace UserManager.Repository.SampleData
                 },
                 new Domain.Entities.User()
                 {
-                   // ID = 3,
                     Title = "Mrs",
                     FirstName = "Lucy",
                     LastName = "Petit",
@@ -48,7 +45,6 @@ namespace UserManager.Repository.SampleData
                 },
                 new Domain.Entities.User()
                 {
-                   // ID = 4,
                     Title = "Mrs",
                     FirstName = "Freja",
                     LastName = "Kristensen",
@@ -60,7 +56,6 @@ namespace UserManager.Repository.SampleData
                 },
                 new Domain.Entities.User()
                 {
-                    //ID= 5,
                     Title = "Mr",
                     FirstName = "Patrick",
                     LastName = "Anderson",
@@ -72,7 +67,6 @@ namespace UserManager.Repository.SampleData
                 },
                 new Domain.Entities.User()
                 {
-                   // ID= 6,
                     Title = "Mr",
                     FirstName = "Ramon",
                     LastName = "Morrison",
@@ -84,7 +78,6 @@ namespace UserManager.Repository.SampleData
                 },
                 new Domain.Entities.User()
                 {
-                    //ID= 7,
                     Title = "Mr",
                     FirstName = "Léandro",
                     LastName = "Barbier",
@@ -96,7 +89,6 @@ namespace UserManager.Repository.SampleData
                 },
                  new Domain.Entities.User()
                 {
-                    //ID= 8,
                     Title = "Mr",
                     FirstName = "Jeremiah",
                     LastName = "Ross",
@@ -108,7 +100,6 @@ namespace UserManager.Repository.SampleData
                 },
                 new Domain.Entities.User()
                 {
-                   // ID= 9,
                     Title = "Miss",
                     FirstName = "Cathy",
                     LastName = "Gonzales",
@@ -120,7 +111,6 @@ namespace UserManager.Repository.SampleData
                 },
                 new Domain.Entities.User()
                 {
-                   // ID= 10,
                     Title = "Mr",
                     FirstName = "Léandro",
                     LastName = "Barbier",
@@ -132,7 +122,6 @@ namespace UserManager.Repository.SampleData
                 },
                 new Domain.Entities.User()
                 {
-                   // ID= 11,
                     Title = "Mr",
                     FirstName = "Sacha",
                     LastName = "Vidal",
@@ -143,8 +132,7 @@ namespace UserManager.Repository.SampleData
                     ProfileThumbnailURL = "https://randomuser.me/api/portraits/thumb/men/9.jpg"
                 },
                  new Domain.Entities.User()
-                {
-                   // ID= 12,
+                {                   
                     Title = "Mr",
                     FirstName = "Cecil",
                     LastName = "White",
